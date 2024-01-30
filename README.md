@@ -6,3 +6,7 @@
 ---
 
 Python Pytorch Numpy Pandas
+
+#### [Link]
+---
+https://concise-root-fdd.notion.site/6de6e81bf3eb42c5885f3a8a2313b3ec
