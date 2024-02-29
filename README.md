@@ -20,10 +20,14 @@
 
 + Selenium을 통해 네이버 플레이스 리뷰 데이터를 크롤링했습니다.
 + Kmeans를 통해 사용자별로 취향이 존재함을 확인하고 이를 군집화 하였습니다.
-<p align="center"> <img src = "https://github.com/psm981021/restaurant-type-recsys/blob/main/kmeans.png" width = "50%" > </p>
+
+<p align="center"> <img src = "https://github.com/psm981021/restaurant-type-recsys/blob/main/kmeans.png" width = "50%" ></p>
+
 + 협업필터링을 통해 추천시스템을 설계하였습니다.
+
 + Bert4Rec을 통해 방문한 음식점들간의 관계를 파악하여 추천에 반영하고 하였습니다.
 <p align="center"> <img src = "https://github.com/psm981021/restaurant-type-recsys/blob/main/BERT4Rec_inference.png" width = "50%" > </p>
+
 + SASRec을 통해 추천시스템에 있어 단방향으로 음식점의 상관관계를 모델링 하였습니다.
 <p align="center"> <img src = "https://github.com/psm981021/restaurant-type-recsys/blob/main/SASRec_inference.png" width = "50%" > </p>
 
