@@ -1,7 +1,8 @@
 ### 👨‍👧‍👧 [Team]
 <p align="center">
-  <img src="https://github.com/psm981021/restaurant-type-recsys/blob/main/jpg/seongbeom.webp" width="40%" alt="Seongbeom" />
-  <img src="https://github.com/psm981021/restaurant-type-recsys/blob/main/jpg/chanbin.webp" width="40%" alt="Chanbin" />
+  <img src="https://github.com/psm981021/restaurant-type-recsys/blob/main/jpg/seongbeom.webp" width="20%" alt="Seongbeom" />
+  <img src="https://github.com/psm981021/restaurant-type-recsys/blob/main/jpg/chanbin.webp" width="20%" alt="Chanbin" />
+  <img src="https://github.com/psm981021/restaurant-type-recsys/blob/main/jpg/jiwon.webp" width="20%" alt="Chanbin" />
 </p>
 
 ### 💡 [Background]
